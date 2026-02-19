@@ -1,0 +1,25 @@
+
+.underline-hover {
+  --underline-color: white; /* couleur par défaut */
+}
+
+/* classes pour changer facilement la couleur */
+.text-underline-indigo-500   { --underline-color: oklch(58.5% 0.233 277.117); }
+.text-underline-purple-900     { --underline-color: oklch(38.1% 0.176 304.987); }
+.text-underline-blue    { --underline-color: #60a5fa; }
+.text-underline-green   { --underline-color: oklch(53.2% 0.157 131.589); }
+
+
+
+.underline-hover::after {
+  content: '';
+  display: block;
+  height: 2px;             /* épaisseur du soulignement */
+  background: var(--underline-color);  /* couleur du soulignement */
+  width: 0;                 /* départ : invisible */
+  transition: width 0.3s ease-in-out;
+}
+
+.underline-hover:hover::after {
+  width: 100%;              /* au hover : prend toute la largeur */
+}
