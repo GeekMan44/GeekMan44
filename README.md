@@ -4,6 +4,11 @@
 
 ## Languages:
 ###### *self notation*
+![Python level](assets/python-logo-only.png)
+![Html level](assets/html5-badge-h-solo.png)
+![CSS level](assets/CSS3_logo.svg.png)
+![JavaScript level](assets/JavaScript-logo.png)
+![C-Sharp level](assets/Csharp_Logo.png)
 <!--##### Python: 
 ##### HTML / CSS
 ##### JavaScript
