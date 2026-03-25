@@ -1,7 +1,7 @@
 # Geek Man's Github
 
 ### A young French developer with a passion for computer science who is constantly learning through personal projects and school.
-
+<!--
 ## Languages:
 ###### *self notation*
 ![Python level](assets/python-logo-only.png)
@@ -9,6 +9,7 @@
 ![CSS level](assets/CSS3_logo.svg.png)
 ![JavaScript level](assets/JavaScript-logo.png)
 ![C-Sharp level](assets/Csharp_Logo.png)
+-->
 <!--##### Python: 
 ##### HTML / CSS
 ##### JavaScript
